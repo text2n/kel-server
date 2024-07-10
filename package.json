@@ -1,5 +1,5 @@
 {
-  "name": "kel-server",
+  "name": "adonis-inertia",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -65,7 +65,10 @@
     "@adonisjs/vite": "^3.0.0",
     "@inertiajs/react": "^1.2.0",
     "@vinejs/vine": "^2.1.0",
+    "argon2": "^0.40.3",
+    "bootstrap": "^5.3.3",
     "edge.js": "^6.0.2",
+    "lodash": "^4.17.21",
     "luxon": "^3.4.4",
     "mysql2": "^3.10.2",
     "react": "^18.3.1",
